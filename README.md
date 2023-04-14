@@ -1,4 +1,10 @@
-#Epoch 
+# Epoch Time in C
+
+This C program demonstrates how to obtain the epoch time using the `time()` function.
+
+## Code
+
+```c
 #include <stdio.h>
 #include <time.h>
 
